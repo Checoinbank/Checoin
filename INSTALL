@@ -1,0 +1,4 @@
+Building Chécoin
+See doc/readme-qt.rst for instructions on building Chécoin QT.
+
+See doc/build-*.txt for instructions on building chécoind.
